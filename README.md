@@ -58,7 +58,13 @@ I'm passionate about creating applications that make people's work easier and mo
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
 ### Tools & Technologies
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,9 +73,11 @@ I'm passionate about creating applications that make people's work easier and mo
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### Specialized Skills
-- **Frontend**: React.js, Redux, React Hooks, Responsive Design, Mobile Interfaces
-- **Backend**: Node.js Microservices, RESTful APIs, GraphQL
-- **Architecture**: Flux, Immutable.js, BDD/TDD
+- **Frontend**: React.js, Next.js, Redux, React Hooks, Responsive Design, Mobile Interfaces, Microfrontends
+- **Backend**: Node.js Microservices, Express.js, RESTful APIs, GraphQL
+- **Testing**: Jest, Vitest, React Testing Library, Unit Testing, Integration Testing
+- **Architecture**: Flux, Immutable.js, BDD/TDD, Microservices Architecture
+- **AI/ML**: Local LLMs, Ollama, LM Studio
 - **UX/UI**: User Experience Design, Interface Design, Accessibility
 - **DevOps**: Git/GitHub, Webpack, Build Optimization
 
@@ -84,13 +92,21 @@ I'm passionate about creating applications that make people's work easier and mo
 ### Professional Certifications
 
 <details>
-<summary><b>📜 View All Certifications (10+)</b></summary>
+<summary><b>📜 View All Certifications (15+)</b></summary>
 
-- **Curso Profesional de React.js** - Platzi/Mejorando.la
-- **Curso Profesional Frontend** - Platzi
-- **Curso de AngularJS** - Platzi/Mejorando.la
+#### Recent Certifications (2025)
+- **Local LLMs via Ollama & LM Studio - The Practical Guide** (Oct 2025)
+- **React Testing Library with Jest / Vitest** (Oct 2025)
+- **Microfrontends with React: A Complete Developer's Guide** (Oct 2025)
+- **Next JS: The Complete Developer's Guide** (Oct 2025)
+- **Nodejs Express - unit testing/integration tests with Jest** (Oct 2025)
+
+#### Core Certifications
+- **Curso Profesional de React.js** (Jul 2015) - Platzi/Mejorando.la
+- **Curso Profesional Frontend** (Jul 2015) - Platzi
+- **Curso de AngularJS** (Sep 2015) - Platzi/Mejorando.la
 - **Curso Profesional de Git y GitHub** - Platzi/Mejorando.la
-- **Curso de UX: Diseño de Experiencia de Usuario** - Platzi/Mejorando.la
+- **Curso de UX: Diseño de Experiencia de Usuario** (Sep 2014) - Platzi/Mejorando.la
 - **Curso de Diseño de Interfaces Móviles** - Platzi/Mejorando.la
 - **Curso de HTML5 y CSS3** - Platzi/Mejorando.la
 - **Curso de Javascript y JQuery** - Platzi/Mejorando.la
@@ -126,6 +142,13 @@ I'm passionate about creating applications that make people's work easier and mo
 - Bringing together developers to share knowledge and experiences
 - Building a strong JavaScript community in Mexico
 - Creating spaces for learning, networking, and professional growth
+
+### 🎓 Hackademy
+**Mentor**
+- Mentoring aspiring developers in their learning journey
+- Sharing practical knowledge and industry best practices
+- Guiding students through real-world development challenges
+- Supporting the next generation of software developers
 
 ### Community Impact
 - Active contributor to the Mexican JavaScript ecosystem
@@ -175,7 +198,9 @@ I believe in:
 I'm always interested in:
 - 🚀 Innovative JavaScript/TypeScript projects
 - 💡 Challenging web development problems
-- 🏗️ Modern frontend architecture and patterns
+- 🏗️ Modern frontend architecture and patterns (Microfrontends, Next.js)
+- 🧪 Testing strategies and quality assurance (Jest, Vitest, React Testing Library)
+- 🤖 AI/ML integration and local LLMs (Ollama, LM Studio)
 - 🔧 Performance optimization and scalability
 - 🌱 Contributing to open source projects
 - 🤝 Collaborating with talented developers
