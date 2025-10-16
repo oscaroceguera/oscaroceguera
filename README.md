@@ -56,12 +56,12 @@ I'm passionate about creating applications that make people's work easier and mo
 
 ## 👥 Community Involvement
 
-### JSConf México  🇲🇽
-Active participant and contributor to the JavaScript community in Mexico
+### [JSConf México  🇲🇽](https://www.jsconf.mx/)
+Active participant and contributor to the JavaScript community in México
 
 ### EventLoop Mexico 🇲🇽
 **Co-Organizer**  
-Helping to organize Mexico's most important JavaScript meetup, bringing together developers to share knowledge and experiences.
+Helping to organize México's most important JavaScript meetup, bringing together developers to share knowledge and experiences.
 
 
 ## 💡 Philosophy
