@@ -6,7 +6,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscaroceguera)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
 
-  **891 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
+  **922 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
 
 </div>
 
@@ -30,20 +30,46 @@ I'm passionate about creating applications that make people's work easier and mo
 
 ---
 
+## 🏆 Recent Highlights & Achievements
+
+<div align="center">
+
+### 🎯 2025 Professional Growth
+
+</div>
+
+- 🚀 **6 Advanced Certifications** completed in cutting-edge technologies (2025)
+- 🤖 **AI/ML Integration**: Mastered local LLMs with Ollama & LM Studio
+- 🧪 **Testing Excellence**: Expert-level proficiency in React Testing Library, Jest, and Vitest
+- 🏗️ **Architecture**: Advanced knowledge in Microfrontends and Next.js
+- 🎖️ **Certified**: Mid-Level React Developer - validated professional expertise
+- 🌐 **Community Impact**: Actively organizing JSConf México and EventLoop events
+- 📈 **Growing Network**: 922+ followers and expanding influence in the Mexican tech scene
+- 💡 **Thought Leadership**: Regular engagement with AI tools, modern frameworks, and industry trends
+
+---
+
 ## 💼 Professional Experience
 
 ### 🔹 Current Position
-**Software Engineer** @ **[Clip](https://clip.mx)** (Fintech)
+**Software Engineer** @ **[Clip (PayClip)](https://clip.mx)** (Fintech)
 - Developing scalable web applications for Mexico's leading fintech platform
 - Working with modern JavaScript technologies and microservices architecture
 - Contributing to innovative payment solutions
 - Building features that serve thousands of merchants across Mexico
+- Leveraging React.js, Node.js, and modern testing frameworks to deliver robust solutions
 
-### 🔹 Previous Experience
-- Experience with decentralized data collection and analytics platforms
-- Agricultural technology solutions for Sinaloa state
-- Worked with leading technology companies in Mexico
-- Full-stack development across multiple industries
+### 🔹 Career Journey
+**8+ Years of Excellence** in Full Stack JavaScript Development
+
+Throughout my career, I've:
+- 💼 Worked with leading technology companies across Mexico
+- 🌾 Developed innovative agricultural technology solutions for Sinaloa state
+- 📊 Built decentralized data collection and analytics platforms
+- 🏢 Delivered full-stack solutions across fintech, agtech, and analytics industries
+- 🚀 Led frontend and backend initiatives using modern JavaScript ecosystem
+- 👥 Mentored junior developers and fostered collaborative team environments
+- 🎯 Consistently delivered high-impact features serving thousands of users
 
 ---
 
@@ -85,46 +111,97 @@ I'm passionate about creating applications that make people's work easier and mo
 
 ## 🎓 Education & Certifications
 
-### Education
+<div align="center">
+
+### 🏛️ Academic Foundation
+
+</div>
+
 **Instituto Tecnológico de Culiacán**
-*Computer Systems Engineering* (2005 - 2010)
+🎓 *Computer Systems Engineering* | 2005 - 2010
 
-### Professional Certifications
+---
 
-<details>
-<summary><b>📜 View All Certifications (15+)</b></summary>
+<div align="center">
 
-#### Recent Certifications (2025)
-- **Local LLMs via Ollama & LM Studio - The Practical Guide** (Oct 2025)
-- **React Testing Library with Jest / Vitest** (Oct 2025)
-- **Microfrontends with React: A Complete Developer's Guide** (Oct 2025)
-- **Next JS: The Complete Developer's Guide** (Oct 2025)
-- **Nodejs Express - unit testing/integration tests with Jest** (Oct 2025)
+### 📜 Professional Certifications & Continuous Learning
 
-#### Core Certifications
-- **Curso Profesional de React.js** (Jul 2015) - Platzi/Mejorando.la
-- **Curso Profesional Frontend** (Jul 2015) - Platzi
-- **Curso de AngularJS** (Sep 2015) - Platzi/Mejorando.la
-- **Curso Profesional de Git y GitHub** - Platzi/Mejorando.la
-- **Curso de UX: Diseño de Experiencia de Usuario** (Sep 2014) - Platzi/Mejorando.la
-- **Curso de Diseño de Interfaces Móviles** - Platzi/Mejorando.la
-- **Curso de HTML5 y CSS3** - Platzi/Mejorando.la
-- **Curso de Javascript y JQuery** - Platzi/Mejorando.la
-- **Curso de Responsive Design** - Platzi/Mejorando.la
-- **Introducción al Diseño de Interfaces** - Platzi/Mejorando.la
+![Certifications](https://img.shields.io/badge/Certifications-16+-success?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge)
+
+</div>
+
+<details open>
+<summary><b>🚀 Recent Certifications (2025) - Click to collapse</b></summary>
+
+<br>
+
+#### 🤖 AI & Machine Learning
+- ✅ **Local LLMs via Ollama & LM Studio - The Practical Guide** (Oct 2025)
+  - *Mastering local AI deployment and integration*
+
+#### 🧪 Testing & Quality Assurance
+- ✅ **React Testing Library with Jest / Vitest** (Oct 2025)
+  - *Advanced testing strategies for modern React applications*
+- ✅ **Node.js Express - unit testing/integration tests with Jest** (Oct 2025)
+  - *Backend testing best practices and TDD/BDD methodologies*
+
+#### 🏗️ Modern Architecture & Frameworks
+- ✅ **Microfrontends with React: A Complete Developer's Guide** (Oct 2025)
+  - *Scalable frontend architecture patterns*
+- ✅ **Next.js: The Complete Developer's Guide** (Oct 2025)
+  - *Full-stack React framework mastery*
+
+#### 🎖️ Professional Certifications
+- ✅ **Mid-Level React Developer Certification** (2025)
+  - *Validated expertise in React development and best practices*
 
 </details>
 
-### Advanced Courses
-- Modern React with Redux
-- GraphQL with React: The Complete Developers Guide
-- Node.js Microservices for Beginners
-- React - Mastering Test and Behavior Driven Development
-- Redux + Immutable (React.js)
-- ES6/7 For React.js
-- Build Web Apps with React JS and Flux
-- Webpack 2
-- Backbone.js Development
+<details>
+<summary><b>📚 Core Certifications (2014-2015) - Click to expand</b></summary>
+
+<br>
+
+#### Frontend Development
+- ✅ **Curso Profesional de React.js** (Jul 2015) - Platzi/Mejorando.la
+- ✅ **Curso Profesional Frontend** (Jul 2015) - Platzi
+- ✅ **Curso de AngularJS** (Sep 2015) - Platzi/Mejorando.la
+- ✅ **Curso de HTML5 y CSS3** - Platzi/Mejorando.la
+- ✅ **Curso de Javascript y JQuery** - Platzi/Mejorando.la
+- ✅ **Curso de Responsive Design** - Platzi/Mejorando.la
+
+#### UX/UI Design
+- ✅ **Curso de UX: Diseño de Experiencia de Usuario** (Sep 2014) - Platzi/Mejorando.la
+- ✅ **Curso de Diseño de Interfaces Móviles** - Platzi/Mejorando.la
+- ✅ **Introducción al Diseño de Interfaces** - Platzi/Mejorando.la
+
+#### Development Tools
+- ✅ **Curso Profesional de Git y GitHub** - Platzi/Mejorando.la
+
+</details>
+
+<details>
+<summary><b>🎯 Advanced Specialization Courses - Click to expand</b></summary>
+
+<br>
+
+#### React Ecosystem
+- 🔹 Modern React with Redux
+- 🔹 React - Mastering Test and Behavior Driven Development
+- 🔹 Redux + Immutable (React.js)
+- 🔹 ES6/7 For React.js
+- 🔹 Build Web Apps with React JS and Flux
+
+#### Backend & API Development
+- 🔹 GraphQL with React: The Complete Developers Guide
+- 🔹 Node.js Microservices for Beginners
+
+#### Build Tools & Legacy Frameworks
+- 🔹 Webpack 2
+- 🔹 Backbone.js Development
+
+</details>
 
 ---
 
@@ -132,16 +209,18 @@ I'm passionate about creating applications that make people's work easier and mo
 
 ### 🇲🇽 [JSConf México](https://www.jsconf.mx/)
 **Organizer** | *March 2023 - Present (2+ years)*
-- Organizing one of the most important JavaScript conferences in Latin America
-- Bringing together developers, speakers, and technology leaders from around the world
+- Leading the organization of Latin America's premier JavaScript conference
+- Bringing together 500+ developers, speakers, and technology leaders from around the world
 - Creating opportunities for knowledge sharing and networking in the Mexican tech community
+- Curating world-class technical content and fostering innovation in the JavaScript ecosystem
 
-### 🇲🇽 EventLoop Mexico
-**Co-Organizer**
-- Co-organizing México's most important JavaScript meetup
-- Bringing together developers to share knowledge and experiences
-- Building a strong JavaScript community in Mexico
+### 🔄 EventLoop Mexico
+**Organizer** | *Building Mexico's JavaScript Community*
+- Leading México's most influential JavaScript meetup community
+- Bringing together developers to share knowledge and cutting-edge experiences
+- Building a strong, inclusive JavaScript community across Mexico
 - Creating spaces for learning, networking, and professional growth
+- Hosting regular technical talks, workshops, and networking events
 
 ### 🎓 Hackademy
 **Mentor**
@@ -169,13 +248,45 @@ I believe in:
 
 ---
 
-## 🌟 Testimonials
+## 🌟 What Colleagues Say
+
+<div align="center">
+
+### 💬 Professional Testimonials
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Challenge-Driven Excellence
 
 > *"Oscar is the kind of software developer that enjoys challenges. He is a team builder and loves to share knowledge. He always sees how to improve or optimize things."*
-> **— Fernando Espinosa Salido**
+
+**— Fernando Espinosa Salido**
+*Professional Colleague*
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 Innovation & Commitment
 
 > *"Es una persona muy perseverante, muy capaz e innovador aportando buenas ideas al proyecto. Y sobre todo una persona muy comprometida con todo lo que hace."*
-> **— Elvia Rosa Martínez Bueno**
+> *(A very perseverant person, very capable and innovative, contributing great ideas to the project. Above all, a person very committed to everything he does.)*
+
+**— Elvia Rosa Martínez Bueno**
+*Professional Colleague*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🏆 Known For:** *Team Building • Knowledge Sharing • Continuous Improvement • Innovation*
+
+</div>
 
 ---
 
@@ -193,33 +304,80 @@ I believe in:
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Areas of Expertise & Interest
 
-I'm always interested in:
+<div align="center">
+
+### 🔥 Passionate About Modern Web Development
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Technical Interests
 - 🚀 Innovative JavaScript/TypeScript projects
-- 💡 Challenging web development problems
-- 🏗️ Modern frontend architecture and patterns (Microfrontends, Next.js)
-- 🧪 Testing strategies and quality assurance (Jest, Vitest, React Testing Library)
+- 🏗️ Modern frontend architecture (Microfrontends, Next.js)
+- 🧪 Testing strategies (Jest, Vitest, React Testing Library)
 - 🤖 AI/ML integration and local LLMs (Ollama, LM Studio)
 - 🔧 Performance optimization and scalability
+- 🔬 Emerging web technologies and frameworks
+- ⚡ Modern build tools and developer experience
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Community & Growth
+- 💡 Challenging web development problems
 - 🌱 Contributing to open source projects
 - 🤝 Collaborating with talented developers
 - 📚 Mentoring and knowledge sharing
 - 🎨 UX/UI design and accessibility
-- 🔬 Emerging web technologies and frameworks
+- 🌐 Building and leading tech communities
+- 🎤 Speaking at conferences and meetups
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌟 Currently Exploring
+
+![AI](https://img.shields.io/badge/AI%2FML-Local%20LLMs-blueviolet?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-TDD%2FBDD-success?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Microfrontends-orange?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing technology, exploring new opportunities, and collaborating on exciting projects!
-
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaroceguerab)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oscaroceguera)
+### 🌐 I'm Always Open To:
+
+💬 **Discussing Technology** • 🚀 **Exploring Opportunities** • 🤝 **Collaborating on Projects** • 🎓 **Mentoring**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaroceguerab)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oscaroceguera)
+
+<br>
+
+### 🎯 Quick Facts
+
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=flat-square)
+![Followers](https://img.shields.io/badge/LinkedIn%20Followers-922%2B-0077B5?style=flat-square)
+![Connections](https://img.shields.io/badge/Connections-500%2B-green?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-16%2B-orange?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Culiac%C3%A1n%2C%20Sinaloa%2C%20Mexico-red?style=flat-square)
 
 </div>
 
@@ -227,14 +385,49 @@ I'm always open to discussing technology, exploring new opportunities, and colla
 
 <div align="center">
 
-  ### 💼 Open to New Opportunities & Collaborations
+## 💼 Open to New Opportunities & Collaborations
 
-  **Full Stack JavaScript Developer** | **React.js Specialist** | **Community Builder**
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>👨‍💻</h3>
+<b>Full Stack JavaScript Developer</b>
+<br>
+<sub>React.js • Node.js • TypeScript</sub>
+</td>
+<td align="center" width="33%">
+<h3>🎯</h3>
+<b>Testing & Quality Specialist</b>
+<br>
+<sub>Jest • Vitest • TDD/BDD</sub>
+</td>
+<td align="center" width="33%">
+<h3>🌟</h3>
+<b>Community Builder</b>
+<br>
+<sub>JSConf MX • EventLoop MX</sub>
+</td>
+</tr>
+</table>
 
-  📍 Culiacán, Sinaloa, Mexico | 🌎 Remote Work Available
+<br>
 
-  ---
+### 📍 Location & Availability
 
-  <sub>⭐️ From [oscaroceguera](https://github.com/oscaroceguera) | Made with ❤️ and JavaScript</sub>
+**Culiacán, Sinaloa, Mexico** | 🌎 **Remote Work Available** | 🌍 **Open to Relocation**
+
+---
+
+<br>
+
+<sub>⭐️ From [oscaroceguera](https://github.com/oscaroceguera)</sub>
+<br>
+<sub>Made with ❤️, JavaScript, and lots of ☕</sub>
+<br>
+<sub>💡 *"We should create applications to facilitate people's work and performance"*</sub>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=oscaroceguera&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
