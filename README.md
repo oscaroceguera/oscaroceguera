@@ -34,18 +34,21 @@ I'm passionate about creating applications that make people's work easier and mo
 
 <div align="center">
 
-### 🎯 2025 Professional Growth
+### 🎯 2025 Professional Growth & Impact
 
 </div>
 
-- 🚀 **6 Advanced Certifications** completed in cutting-edge technologies (2025)
-- 🤖 **AI/ML Integration**: Mastered local LLMs with Ollama & LM Studio
+- 🚀 **6 Advanced Certifications** completed in cutting-edge technologies
+- 🤖 **AI/ML Integration**: Mastered local LLMs with Ollama & LM Studio for practical AI applications
 - 🧪 **Testing Excellence**: Expert-level proficiency in React Testing Library, Jest, and Vitest
-- 🏗️ **Architecture**: Advanced knowledge in Microfrontends and Next.js
-- 🎖️ **Certified**: Mid-Level React Developer - validated professional expertise
-- 🌐 **Community Impact**: Actively organizing JSConf México and EventLoop events
-- 📈 **Growing Network**: 922+ followers and expanding influence in the Mexican tech scene
-- 💡 **Thought Leadership**: Regular engagement with AI tools, modern frameworks, and industry trends
+- 🏗️ **Modern Architecture**: Advanced expertise in Microfrontends and Next.js full-stack development
+- 🎖️ **Professional Certification**: Mid-Level React Developer - validated industry expertise
+- 🌐 **Community Leadership**: Successfully co-organizing JSConf México 2025 and leading EventLoop Mexico
+- 📈 **Growing Influence**: 922+ LinkedIn followers and 500+ professional connections in the tech community
+- 💡 **Technology Adoption**: Early adopter of modern testing practices and AI-assisted development
+- 🎯 **Fintech Innovation**: Contributing to scalable solutions at Clip serving thousands of Mexican merchants
+- 🎓 **Mentorship Impact**: Actively mentoring developers through Hackademy and community initiatives
+- 🔧 **Technical Leadership**: Driving best practices in testing, architecture, and code quality at enterprise scale
 
 ---
 
@@ -137,19 +140,19 @@ Throughout my career, I've:
 <br>
 
 #### 🤖 AI & Machine Learning
-- ✅ **Local LLMs via Ollama & LM Studio - The Practical Guide** (Oct 2025)
+- ✅ **Local LLMs via Ollama & LM Studio - The Practical Guide** (2025)
   - *Mastering local AI deployment and integration*
 
 #### 🧪 Testing & Quality Assurance
-- ✅ **React Testing Library with Jest / Vitest** (Oct 2025)
+- ✅ **React Testing Library with Jest / Vitest** (2025)
   - *Advanced testing strategies for modern React applications*
-- ✅ **Node.js Express - unit testing/integration tests with Jest** (Oct 2025)
+- ✅ **Node.js Express - unit testing/integration tests with Jest** (2025)
   - *Backend testing best practices and TDD/BDD methodologies*
 
 #### 🏗️ Modern Architecture & Frameworks
-- ✅ **Microfrontends with React: A Complete Developer's Guide** (Oct 2025)
+- ✅ **Microfrontends with React: A Complete Developer's Guide** (2025)
   - *Scalable frontend architecture patterns*
-- ✅ **Next.js: The Complete Developer's Guide** (Oct 2025)
+- ✅ **Next.js: The Complete Developer's Guide** (2025)
   - *Full-stack React framework mastery*
 
 #### 🎖️ Professional Certifications
@@ -208,9 +211,9 @@ Throughout my career, I've:
 ## 👥 Community Involvement & Leadership
 
 ### 🇲🇽 [JSConf México](https://www.jsconf.mx/)
-**Organizer** | *March 2023 - Present (2+ years)*
+**Organizer** | *March 2023 - Present (3+ years)*
 - Leading the organization of Latin America's premier JavaScript conference
-- Bringing together 500+ developers, speakers, and technology leaders from around the world
+- Successfully delivered JSConf México 2025 with 500+ developers, speakers, and technology leaders
 - Creating opportunities for knowledge sharing and networking in the Mexican tech community
 - Curating world-class technical content and fostering innovation in the JavaScript ecosystem
 
