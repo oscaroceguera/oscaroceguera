@@ -6,7 +6,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscaroceguera)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
 
-  **922 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
+  **994 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack JavaScript Developer** with 8+ years of experience building scalable web applications. Currently working as a **Software Engineer** at **Clip**, where I develop cutting-edge fintech solutions that impact thousands of users across Mexico.
+I'm a **Full Stack JavaScript Developer** with 8+ years of experience building scalable web applications. Currently working as a **Sr. Software Engineer** at **Clip**, where I develop cutting-edge fintech solutions that impact thousands of users across Mexico.
 
 I'm passionate about creating applications that make people's work easier and more efficient. I believe in paying attention to detail when building user interfaces and always think about how to facilitate better user experiences.
 
@@ -34,19 +34,20 @@ I'm passionate about creating applications that make people's work easier and mo
 
 <div align="center">
 
-### 🎯 2025 Professional Growth & Impact
+### 🎯 2025-2026 Professional Growth & Impact
 
 </div>
 
-- 🚀 **6 Advanced Certifications** completed in cutting-edge technologies
-- 🤖 **AI/ML Integration**: Mastered local LLMs with Ollama & LM Studio for practical AI applications
+- 🚀 **26 Professional Certifications** including Claude Code in Action (Anthropic), Microfrontends with React, Next.js and advanced testing
+- 🤖 **AI/ML Integration**: Claude Code in Action (Anthropic) plus local LLMs with Ollama & LM Studio for practical AI applications
 - 🧪 **Testing Excellence**: Expert-level proficiency in React Testing Library, Jest, and Vitest
 - 🏗️ **Modern Architecture**: Advanced expertise in Microfrontends and Next.js full-stack development
 - 🎖️ **Professional Certification**: Mid-Level React Developer - validated industry expertise
-- 🌐 **Community Leadership**: Successfully co-organizing JSConf México 2025 and leading EventLoop Mexico
-- 📈 **Growing Influence**: 922+ LinkedIn followers and 500+ professional connections in the tech community
+- 🌐 **Community Leadership**: Delivered JSConf México 2025 and now co-organizing JSConf México 2026 (Oct 29-30, Guadalajara) with 29 speakers and keynotes from Daniel Roe and Mark Thompson, while leading EventLoop Mexico
+- 📈 **Growing Influence**: 994+ LinkedIn followers and 500+ professional connections in the tech community
 - 💡 **Technology Adoption**: Early adopter of modern testing practices and AI-assisted development
-- 🎯 **Fintech Innovation**: Contributing to scalable solutions at Clip serving thousands of Mexican merchants
+- 🎯 **Fintech Innovation**: Sr. Software Engineer at Clip since Dec 2020, building scalable solutions for thousands of Mexican merchants
+- 💻 **Open Source Activity**: 290+ repositories and 3,000+ GitHub contributions in the last year
 - 🎓 **Mentorship Impact**: Actively mentoring developers through Hackademy and community initiatives
 - 🔧 **Technical Leadership**: Driving best practices in testing, architecture, and code quality at enterprise scale
 
@@ -55,7 +56,7 @@ I'm passionate about creating applications that make people's work easier and mo
 ## 💼 Professional Experience
 
 ### 🔹 Current Position
-**Software Engineer** @ **[Clip (PayClip)](https://clip.mx)** (Fintech)
+**Sr. Software Engineer** @ **[Clip (PayClip)](https://clip.mx)** (Fintech) | *Dec 2020 - Present*
 - Developing scalable web applications for Mexico's leading fintech platform
 - Working with modern JavaScript technologies and microservices architecture
 - Contributing to innovative payment solutions
@@ -64,6 +65,14 @@ I'm passionate about creating applications that make people's work easier and mo
 
 ### 🔹 Career Journey
 **8+ Years of Excellence** in Full Stack JavaScript Development
+
+| Period | Role | Company |
+|---|---|---|
+| Dec 2020 - Present | Sr. Software Engineer | Clip |
+| May 2020 - Dec 2020 | Full Stack JavaScript Engineer | Paxico Technologies |
+| Jun 2019 - May 2020 | Front-end Developer | GTA |
+| Oct 2018 - Jun 2019 | Full Stack Developer | Cultura Colectiva |
+| May 2018 - Oct 2018 | Software Engineer | Axity |
 
 Throughout my career, I've:
 - 💼 Worked with leading technology companies across Mexico
@@ -102,11 +111,12 @@ Throughout my career, I've:
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### Specialized Skills
-- **Frontend**: React.js, Next.js, Redux, React Hooks, Responsive Design, Mobile Interfaces, Microfrontends
+- **Frontend**: JavaScript (ES2024+), TypeScript, React.js, Next.js, Redux, Tailwind CSS, Material-UI, Responsive Design, Microfrontends
 - **Backend**: Node.js Microservices, Express.js, RESTful APIs, GraphQL
+- **Data & Infrastructure**: MongoDB, PostgreSQL, Prisma, Stripe, AWS
 - **Testing**: Jest, Vitest, React Testing Library, Unit Testing, Integration Testing
 - **Architecture**: Flux, Immutable.js, BDD/TDD, Microservices Architecture
-- **AI/ML**: Local LLMs, Ollama, LM Studio
+- **AI/ML**: Claude Code, Local LLMs, Ollama, LM Studio
 - **UX/UI**: User Experience Design, Interface Design, Accessibility
 - **DevOps**: Git/GitHub, Webpack, Build Optimization
 
@@ -129,17 +139,19 @@ Throughout my career, I've:
 
 ### 📜 Professional Certifications & Continuous Learning
 
-![Certifications](https://img.shields.io/badge/Certifications-16+-success?style=for-the-badge)
+![Certifications](https://img.shields.io/badge/Certifications-26+-success?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge)
 
 </div>
 
 <details open>
-<summary><b>🚀 Recent Certifications (2025) - Click to collapse</b></summary>
+<summary><b>🚀 Recent Certifications (2025-2026) - Click to collapse</b></summary>
 
 <br>
 
 #### 🤖 AI & Machine Learning
+- ✅ **Claude Code in Action** (Anthropic)
+  - *Agentic AI-assisted development workflows*
 - ✅ **Local LLMs via Ollama & LM Studio - The Practical Guide** (2025)
   - *Mastering local AI deployment and integration*
 
@@ -377,9 +389,9 @@ I believe in:
 ### 🎯 Quick Facts
 
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=flat-square)
-![Followers](https://img.shields.io/badge/LinkedIn%20Followers-922%2B-0077B5?style=flat-square)
+![Followers](https://img.shields.io/badge/LinkedIn%20Followers-994%2B-0077B5?style=flat-square)
 ![Connections](https://img.shields.io/badge/Connections-500%2B-green?style=flat-square)
-![Certifications](https://img.shields.io/badge/Certifications-16%2B-orange?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-26%2B-orange?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Culiac%C3%A1n%2C%20Sinaloa%2C%20Mexico-red?style=flat-square)
 
 </div>
