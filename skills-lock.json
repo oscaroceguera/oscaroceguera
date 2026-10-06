@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "create-agentsmd": {
+      "source": "oscaroceguera/skills-bucket",
+      "sourceType": "github",
+      "skillPath": "skills/create-agentsmd/SKILL.md",
+      "computedHash": "7c0c5feec70e14d797211d62e18c2dab608b89ea8137e8ed19b8766c4c08179d"
+    }
+  }
+}
