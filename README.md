@@ -6,7 +6,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscaroceguera)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
 
-  **994 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
+  **997 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
 
 </div>
 
@@ -38,16 +38,16 @@ I'm passionate about creating applications that make people's work easier and mo
 
 </div>
 
-- 🚀 **26 Professional Certifications** including Claude Code in Action (Anthropic), Microfrontends with React, Next.js and advanced testing
-- 🤖 **AI/ML Integration**: Claude Code in Action (Anthropic) plus local LLMs with Ollama & LM Studio for practical AI applications
+- 🚀 **26 Professional Certifications** including AI Agents Fundamentals and Harness Engineering & Agent Orchestration (Master.dev), Claude Code in Action (Anthropic), Microfrontends with React, Next.js and advanced testing
+- 🤖 **AI/ML Integration**: AI agents and agent orchestration, Claude Code in Action (Anthropic), plus local LLMs with Ollama & LM Studio for practical AI applications
 - 🧪 **Testing Excellence**: Expert-level proficiency in React Testing Library, Jest, and Vitest
 - 🏗️ **Modern Architecture**: Advanced expertise in Microfrontends and Next.js full-stack development
 - 🎖️ **Professional Certification**: Mid-Level React Developer - validated industry expertise
 - 🌐 **Community Leadership**: Delivered JSConf México 2025 and now co-organizing JSConf México 2026 (Oct 29-30, Guadalajara) with 29 speakers and keynotes from Daniel Roe and Mark Thompson, while leading EventLoop Mexico
-- 📈 **Growing Influence**: 994+ LinkedIn followers and 500+ professional connections in the tech community
+- 📈 **Growing Influence**: 997+ LinkedIn followers and 500+ professional connections in the tech community
 - 💡 **Technology Adoption**: Early adopter of modern testing practices and AI-assisted development
 - 🎯 **Fintech Innovation**: Sr. Software Engineer at Clip since Dec 2020, building scalable solutions for thousands of Mexican merchants
-- 💻 **Open Source Activity**: 290+ repositories and 3,000+ GitHub contributions in the last year
+- 💻 **Open Source Activity**: 290+ public repositories and 1,700+ GitHub contributions in the last year
 - 🎓 **Mentorship Impact**: Actively mentoring developers through Hackademy and community initiatives
 - 🔧 **Technical Leadership**: Driving best practices in testing, architecture, and code quality at enterprise scale
 
@@ -73,6 +73,11 @@ I'm passionate about creating applications that make people's work easier and mo
 | Jun 2019 - May 2020 | Front-end Developer | GTA |
 | Oct 2018 - Jun 2019 | Full Stack Developer | Cultura Colectiva |
 | May 2018 - Oct 2018 | Software Engineer | Axity |
+| Jan 2018 - Apr 2018 | Web Developer | Common Sense People |
+| Mar 2017 - Jan 2018 | Front-end Developer | Sngular |
+| Sep 2015 - Feb 2017 | Frontend Programmer | TIC |
+| Jul 2013 - Nov 2016 | Systems Manager | TECSIA |
+| Sep 2011 - Jul 2013 | Agricultural Food Safety Systems | Cesavesin |
 
 Throughout my career, I've:
 - 💼 Worked with leading technology companies across Mexico
@@ -116,7 +121,7 @@ Throughout my career, I've:
 - **Data & Infrastructure**: MongoDB, PostgreSQL, Prisma, Stripe, AWS
 - **Testing**: Jest, Vitest, React Testing Library, Unit Testing, Integration Testing
 - **Architecture**: Flux, Immutable.js, BDD/TDD, Microservices Architecture
-- **AI/ML**: Claude Code, Local LLMs, Ollama, LM Studio
+- **AI/ML**: AI Agents, Agent Orchestration, Claude Code, Local LLMs, Ollama, LM Studio
 - **UX/UI**: User Experience Design, Interface Design, Accessibility
 - **DevOps**: Git/GitHub, Webpack, Build Optimization
 
@@ -150,15 +155,19 @@ Throughout my career, I've:
 <br>
 
 #### 🤖 AI & Machine Learning
-- ✅ **Claude Code in Action** (Anthropic)
+- ✅ **AI Agents Fundamentals, v2** (Master.dev, Oct 2026)
+- ✅ **Claude Code** (Master.dev, Oct 2026)
+- ✅ **Harness Engineering & Agent Orchestration** (Master.dev, Sep 2026)
+- ✅ **Claude Code in Action** (Anthropic, Dec 2025)
   - *Agentic AI-assisted development workflows*
+- ✅ **Claude Code Crash Course: Claude Code In a Day** (Udemy, Oct 2025)
 - ✅ **Local LLMs via Ollama & LM Studio - The Practical Guide** (2025)
   - *Mastering local AI deployment and integration*
 
 #### 🧪 Testing & Quality Assurance
 - ✅ **React Testing Library with Jest / Vitest** (2025)
   - *Advanced testing strategies for modern React applications*
-- ✅ **Node.js Express - unit testing/integration tests with Jest** (2025)
+- ✅ **Node.js Express - unit testing/integration tests with Jest** (Udemy, Dec 2020)
   - *Backend testing best practices and TDD/BDD methodologies*
 
 #### 🏗️ Modern Architecture & Frameworks
@@ -168,7 +177,7 @@ Throughout my career, I've:
   - *Full-stack React framework mastery*
 
 #### 🎖️ Professional Certifications
-- ✅ **Mid-Level React Developer Certification** (2025)
+- ✅ **Certified Mid-Level React Developer** (Certificates.dev, Nov 2025)
   - *Validated expertise in React development and best practices*
 
 </details>
@@ -211,6 +220,8 @@ Throughout my career, I've:
 #### Backend & API Development
 - 🔹 GraphQL with React: The Complete Developers Guide
 - 🔹 Node.js Microservices for Beginners
+- 🔹 Go: The Complete Developer's Guide (Golang)
+- 🔹 Full Authentication with React JS, Next JS & TypeScript 2023
 
 #### Build Tools & Legacy Frameworks
 - 🔹 Webpack 2
@@ -389,7 +400,7 @@ I believe in:
 ### 🎯 Quick Facts
 
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=flat-square)
-![Followers](https://img.shields.io/badge/LinkedIn%20Followers-994%2B-0077B5?style=flat-square)
+![Followers](https://img.shields.io/badge/LinkedIn%20Followers-997%2B-0077B5?style=flat-square)
 ![Connections](https://img.shields.io/badge/Connections-500%2B-green?style=flat-square)
 ![Certifications](https://img.shields.io/badge/Certifications-26%2B-orange?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Culiac%C3%A1n%2C%20Sinaloa%2C%20Mexico-red?style=flat-square)
