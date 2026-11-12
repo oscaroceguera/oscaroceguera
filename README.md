@@ -6,7 +6,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscaroceguera)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
 
-  **997 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
+  **1,036 followers** • **500+ connections** • **Culiacán, Sinaloa, Mexico**
 
 </div>
 
@@ -38,13 +38,13 @@ I'm passionate about creating applications that make people's work easier and mo
 
 </div>
 
-- 🚀 **26 Professional Certifications** including AI Agents Fundamentals and Harness Engineering & Agent Orchestration (Master.dev), Claude Code in Action (Anthropic), Microfrontends with React, Next.js and advanced testing
+- 🚀 **27 Professional Certifications** including Complete Intro to MCP, AI Agents Fundamentals and Harness Engineering & Agent Orchestration (Master.dev), Claude Code in Action (Anthropic), Microfrontends with React, Next.js and advanced testing
 - 🤖 **AI/ML Integration**: AI agents and agent orchestration, Claude Code in Action (Anthropic), plus local LLMs with Ollama & LM Studio for practical AI applications
 - 🧪 **Testing Excellence**: Expert-level proficiency in React Testing Library, Jest, and Vitest
 - 🏗️ **Modern Architecture**: Advanced expertise in Microfrontends and Next.js full-stack development
 - 🎖️ **Professional Certification**: Mid-Level React Developer - validated industry expertise
-- 🌐 **Community Leadership**: Delivered JSConf México 2025 and now co-organizing JSConf México 2026 (Oct 29-30, Guadalajara) with 29 speakers and keynotes from Daniel Roe and Mark Thompson, while leading EventLoop Mexico
-- 📈 **Growing Influence**: 997+ LinkedIn followers and 500+ professional connections in the tech community
+- 🌐 **Community Leadership**: Delivered JSConf México 2025 and JSConf México 2026 (Oct 29-30, Guadalajara) with 29 speakers and keynotes from Daniel Roe and Mark Thompson, while leading EventLoop Mexico
+- 📈 **Growing Influence**: 1,000+ LinkedIn followers and 500+ professional connections in the tech community
 - 💡 **Technology Adoption**: Early adopter of modern testing practices and AI-assisted development
 - 🎯 **Fintech Innovation**: Sr. Software Engineer at Clip since Dec 2020, building scalable solutions for thousands of Mexican merchants
 - 💻 **Open Source Activity**: 290+ public repositories and 1,700+ GitHub contributions in the last year
@@ -121,7 +121,7 @@ Throughout my career, I've:
 - **Data & Infrastructure**: MongoDB, PostgreSQL, Prisma, Stripe, AWS
 - **Testing**: Jest, Vitest, React Testing Library, Unit Testing, Integration Testing
 - **Architecture**: Flux, Immutable.js, BDD/TDD, Microservices Architecture
-- **AI/ML**: AI Agents, Agent Orchestration, Claude Code, Local LLMs, Ollama, LM Studio
+- **AI/ML**: AI Agents, Agent Orchestration, MCP, Claude Code, Local LLMs, Ollama, LM Studio
 - **UX/UI**: User Experience Design, Interface Design, Accessibility
 - **DevOps**: Git/GitHub, Webpack, Build Optimization
 
@@ -144,7 +144,7 @@ Throughout my career, I've:
 
 ### 📜 Professional Certifications & Continuous Learning
 
-![Certifications](https://img.shields.io/badge/Certifications-26+-success?style=for-the-badge)
+![Certifications](https://img.shields.io/badge/Certifications-27+-success?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge)
 
 </div>
@@ -155,6 +155,7 @@ Throughout my career, I've:
 <br>
 
 #### 🤖 AI & Machine Learning
+- ✅ **Complete Intro to MCP** (Master.dev, Nov 2026)
 - ✅ **AI Agents Fundamentals, v2** (Master.dev, Oct 2026)
 - ✅ **Claude Code** (Master.dev, Oct 2026)
 - ✅ **Harness Engineering & Agent Orchestration** (Master.dev, Sep 2026)
@@ -237,6 +238,7 @@ Throughout my career, I've:
 **Organizer** | *March 2023 - Present (3+ years)*
 - Leading the organization of Latin America's premier JavaScript conference
 - Successfully delivered JSConf México 2025 with 500+ developers, speakers, and technology leaders
+- Delivered JSConf México 2026 (Oct 29-30, Guadalajara), a volunteer-run, non-profit event; see you in 2027
 - Creating opportunities for knowledge sharing and networking in the Mexican tech community
 - Curating world-class technical content and fostering innovation in the JavaScript ecosystem
 
@@ -391,7 +393,7 @@ I believe in:
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaroceguerab)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscaroceguera@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscaroceguera.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oscaroceguera)
 
@@ -400,9 +402,9 @@ I believe in:
 ### 🎯 Quick Facts
 
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=flat-square)
-![Followers](https://img.shields.io/badge/LinkedIn%20Followers-997%2B-0077B5?style=flat-square)
+![Followers](https://img.shields.io/badge/LinkedIn%20Followers-1%2C000%2B-0077B5?style=flat-square)
 ![Connections](https://img.shields.io/badge/Connections-500%2B-green?style=flat-square)
-![Certifications](https://img.shields.io/badge/Certifications-26%2B-orange?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-27%2B-orange?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Culiac%C3%A1n%2C%20Sinaloa%2C%20Mexico-red?style=flat-square)
 
 </div>
